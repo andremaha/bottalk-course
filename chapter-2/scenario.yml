@@ -16,7 +16,7 @@ scenario:
       actions:
         - sendText: >
             Hello, World!
-            What is your name?
+            Do you want a personal greeting?
         - getInput:
 
     - name: Initial step
