@@ -1,0 +1,18 @@
+---
+intents:
+  ok_great:
+    - 'OK'
+    - 'Great'
+  yes:
+    - yes
+    - sure
+    - of course
+    - go for it
+    - yeah
+    - I might
+    - it would be nice
+  no:
+    - no
+    - nope
+    - never
+    - just leave me alone
